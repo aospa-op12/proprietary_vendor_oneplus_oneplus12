@@ -57,3 +57,10 @@ install_symlink {
 	symlink_target: "/odm/etc/acdbdata/acdb_cal.acdb",
 }
 
+install_symlink {
+	name: "qdcm_calib_data_AA545_P_3_A0005_dsc_cmd_mode_panel_qdcm_calib_data_AA545_P_3_A0005_dsc_cmd_mode_panel_symlink",
+	soc_specific: true,
+	installed_location: "etc/display/qdcm_calib_data_AA545_P_3_A0005_dsc_cmd_mode_panel.json",
+	symlink_target: "/odm/etc/display/qdcm_calib_data_AA545_P_3_A0005_dsc_cmd_mode_panel.json",
+}
+

@@ -213,4 +213,5 @@ PRODUCT_PACKAGES += \
     CFR_ov64b40_tele
 
 PRODUCT_PACKAGES += \
-    acdb_cal_acdb_cal_symlink
+    acdb_cal_acdb_cal_symlink \
+    qdcm_calib_data_AA545_P_3_A0005_dsc_cmd_mode_panel_qdcm_calib_data_AA545_P_3_A0005_dsc_cmd_mode_panel_symlink
