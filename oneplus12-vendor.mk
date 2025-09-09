@@ -30,6 +30,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus12/proprietary/odm/etc/camera/settings_fdc.txt:$(TARGET_COPY_OUT_ODM)/etc/camera/settings_fdc.txt \
     vendor/oneplus/oneplus12/proprietary/odm/etc/camera/settings_fdc_lite.txt:$(TARGET_COPY_OUT_ODM)/etc/camera/settings_fdc_lite.txt \
     vendor/oneplus/oneplus12/proprietary/odm/etc/display/qdcm_calib_data_AA545_P_3_A0005_dsc_cmd_mode_panel.json:$(TARGET_COPY_OUT_ODM)/etc/display/qdcm_calib_data_AA545_P_3_A0005_dsc_cmd_mode_panel.json \
+    vendor/oneplus/oneplus12/proprietary/odm/etc/dolby/multimedia_dolby_dax_default.xml:$(TARGET_COPY_OUT_ODM)/etc/dolby/multimedia_dolby_dax_default.xml \
     vendor/oneplus/oneplus12/proprietary/odm/etc/inparm/iris7_AA545_P_1_A0006_dsc_cmd_mode_panel/inParm14.txt:$(TARGET_COPY_OUT_ODM)/etc/inparm/iris7_AA545_P_1_A0006_dsc_cmd_mode_panel/inParm14.txt \
     vendor/oneplus/oneplus12/proprietary/odm/etc/inparm/iris7_AA545_P_1_A0006_dsc_cmd_mode_panel/inParm14_low.txt:$(TARGET_COPY_OUT_ODM)/etc/inparm/iris7_AA545_P_1_A0006_dsc_cmd_mode_panel/inParm14_low.txt \
     vendor/oneplus/oneplus12/proprietary/odm/etc/inparm/iris7_AA545_P_1_A0006_dsc_cmd_mode_panel/inParm17.txt:$(TARGET_COPY_OUT_ODM)/etc/inparm/iris7_AA545_P_1_A0006_dsc_cmd_mode_panel/inParm17.txt \
